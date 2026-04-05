@@ -5,7 +5,6 @@ import cn.hutool.core.util.StrUtil;
 
 /**
  * 复制代码工具类
- * 作者：程序员青戈
  */
 public class CopyUtils {
 
