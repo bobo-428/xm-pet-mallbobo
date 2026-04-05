@@ -4,7 +4,7 @@ import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.StrUtil;
 
 /**
- * 复制代码工具类
+ * 复制代码工具类的
  */
 public class CopyUtils {
 
